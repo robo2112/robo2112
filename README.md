@@ -1,7 +1,7 @@
 # robo2112 🥀🖤
 
 ### ⚡ Software Developer | Backend & Security
-"Power is nothing without control. Code is the weapon."
+"It doesn't matter how slowly you go, as long as you don't stop."
 
 ---
 
